@@ -1,0 +1,23 @@
+2025-05-25 11:41:36,241 - INFO - Loaded 26 keywords from 'suspicious_words.txt'
+2025-05-25 11:42:22,904 - WARNING - Suspicious URL detected: http://fakebank.com/login
+2025-05-25 11:46:28,630 - INFO - Loaded 26 keywords from 'suspicious_words.txt'
+2025-05-25 11:46:48,803 - WARNING - Suspicious URL detected: http://fakebank.com
+2025-05-25 11:50:04,247 - INFO - Clean URL scanned: https://instagram.com
+2025-05-25 11:50:24,471 - INFO - Clean URL scanned: http://instagram.com
+2025-05-25 11:52:49,964 - INFO - Loaded 26 keywords from 'suspicious_words.txt'
+2025-05-25 12:10:48,890 - INFO - Loaded 26 keywords from 'suspicious_words.txt'
+2025-05-25 12:11:06,156 - WARNING - Suspicious URL detected: http://fakebank.com
+2025-05-25 12:26:06,334 - INFO - Loaded 26 keywords from 'suspicious_words.txt'
+2025-05-25 12:26:17,657 - INFO - Clean URL scanned: https://google.com
+2025-05-25 12:33:53,924 - INFO - Loaded 26 keywords from 'suspicious_words.txt'
+2025-05-25 12:34:08,132 - INFO - Clean URL scanned: http://google.com
+2025-05-25 12:44:37,809 - INFO - Loaded 26 keywords from 'suspicious_words.txt'
+2025-05-25 12:44:54,424 - WARNING - Suspicious URL detected: https://fakebank.com
+2025-05-25 12:45:11,670 - INFO - Clean URL scanned: http://google.com
+2025-05-25 12:48:19,090 - INFO - Loaded 26 keywords from 'suspicious_words.txt'
+2025-05-25 12:48:36,237 - WARNING - Suspicious URL detected: http://fakebank.com
+2025-05-25 12:48:52,329 - INFO - Clean URL scanned: https://google.com
+2025-05-25 13:10:44,905 - INFO - Loaded 27 keywords from 'suspicious_words.txt'
+2025-05-25 13:10:56,926 - WARNING - Suspicious URL detected: https://login.com
+2025-05-28 13:34:37,131 - INFO - Loaded 27 keywords from 'suspicious_words.txt'
+2025-05-28 13:34:55,349 - INFO - Clean URL scanned: https://instagram.com

@@ -1,0 +1,13 @@
+2025-05-25 11:42:22 - http://fakebank.com/login - 31m[1m⚠️ Suspicious keyword detected in URL!
+2025-05-25 11:46:48 - http://fakebank.com - 31m[1m⚠️ Suspicious keyword detected in URL!
+2025-05-25 11:50:04 - https://instagram.com - 32m✅ No suspicious keywords found.
+2025-05-25 11:50:24 - http://instagram.com - 32m✅ No suspicious keywords found.
+2025-05-25 12:11:06 - http://fakebank.com - 31m[1m⚠️ Suspicious keyword detected in URL!
+2025-05-25 12:26:17 - https://google.com - 32m✅ No suspicious keywords found.
+2025-05-25 12:34:08 - http://google.com - 32m✅ No suspicious keywords found.
+2025-05-25 12:44:54 - https://fakebank.com - 31m[1m⚠️ Suspicious keyword detected in URL!
+2025-05-25 12:45:11 - http://google.com - 32m✅ No suspicious keywords found.
+2025-05-25 12:48:36 - http://fakebank.com - 31m[1m⚠️ Suspicious keyword detected in URL!
+2025-05-25 12:48:52 - https://google.com - 32m✅ No suspicious keywords found.
+2025-05-25 13:10:56 - https://login.com - 31m[1m⚠️ Suspicious keyword detected in URL!
+2025-05-28 13:34:55 - https://instagram.com - 32m✅ No suspicious keywords found.
