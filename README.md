@@ -49,6 +49,76 @@ phishing_scanner/
 ### 🔧 Installation
 
 ```bash
-git clone 
+git clone https://github.com/SafwanaNasrin/Phishing_scanner_project.git
 cd phishing_scanner
 pip install colorama
+
+▶️ Run the Tool
+
+python scanner.py
+
+📸 Sample Output
+
+=== Phishing URL Keyword Scanner ===
+
+Enter a URL to scan (or type 'exit' to quit): https://paypal-login-update.com
+Scanning URL...
+⚠️ Suspicious keyword detected in URL!
+
+✏️ How It Works
+
+    User inputs a URL
+
+    Script checks if it contains any phishing keywords from the list
+
+    Shows scan result and saves it to a file
+
+    Provides helpful colored feedback to the user
+
+    Logs all activity for later review
+
+🧠 Customization
+
+You can edit suspicious_words.txt to add/remove keywords based on new threats or trends.
+
+Example:
+
+login
+account
+secure
+verify
+paypal
+bank
+reset
+fraud
+
+🧑‍💻 Author
+
+Safwana Nasrin
+B.Sc. Computer Science | Cybersecurity Enthusiast
+🔗 LinkedIn (Replace with your actual LinkedIn)
+📫 Open to collaboration & internships in Cybersecurity
+📜 License
+
+This project is licensed under the MIT License – free to use, modify, and distribute.
+🙌 Contributions
+
+Pull requests are welcome!
+If you have keyword lists, ideas, or want to add new scanning features, feel free to contribute!
+🔖 Tags
+
+#PhishingScanner #Python #CyberSecurityProject #OpenSource #CLIApp #InfoSec
+
+    🔐 Stay alert. Think before you click.
+
+
+---
+
+✅ Let me know if you want:
+- A version of this in PDF for your resume
+- Demo video script
+- A badge-style GitHub banner
+
+I can also help you **add shields.io badges**, **GitHub Topics**, or a **LinkedIn post** with this project!
+
+
